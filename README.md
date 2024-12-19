@@ -20,4 +20,4 @@ A simple console-based **Tic-Tac-Toe** game built using **C++**. This project al
 3. The first player to get three of their symbols in a row, column, or diagonal wins.
 4. If all cells are filled and no player has won, the game ends in a draw.
 
---
+---
